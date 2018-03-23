@@ -1,0 +1,33 @@
+---
+layout: blog
+title: Blog
+---
+
+<div class="blog-mainpage">
+
+<div id="posts">
+
+  {% for post in site.posts %}
+
+      {% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
+      {% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
+
+      {% if day != nday %}
+          <h2 class="date">{{ post.date | date: "%A, %B %e, %Y" }}</h2>
+          <div class="blog-postcontent">
+      {% endif %}
+      <div class="post-container">
+      <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      {{ post.content }}
+      <small class="post-date" style="color: #999;">{{ post.date | date: "%m/%d/%y" }} <a href="{{ post.url }}">permalink</a></small>
+    </div>
+  {% endfor %}
+</div>
+<div style="margin: 15px 0; padding-top: 5px;">
+<small>
+    <a href="/blog/archive.html" title="an archive of all posts">&larr; More posts</a>
+</small>
+</div>
+
+</div>
+</div>

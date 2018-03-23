@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+}
+
+.blog-mainpage {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.blog-postcontent {
+  margin-left: 5%;
+}
+
+.post-container {
+  margin-bottom: 10%;
+}
