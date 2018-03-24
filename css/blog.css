@@ -31,7 +31,7 @@ h2 {
   font-size: 32px;
 }
 
-.blog-mainpage p {
+.blog-mainpage p, .blog-mainpage ul li {
   font-family: "Linux Libertine", serif;
   font-size: 22px;
   line-height: 30px;
