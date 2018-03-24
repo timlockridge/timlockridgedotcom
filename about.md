@@ -25,5 +25,3 @@ My poetry has appeared in a number of literary magazines and websites. A number 
 
 <h2 id="contact">Contact</h2>
 The best way to get in touch with me is via email <br />(timlockridge@miamioh.edu) or Twitter [(@timlockridge)](http://www.twitter.com/timlockridge). You can also find me on [Github](http://www.github.com/timlockridge) and [LinkedIn](http://www.linkedin.com/pub/tim-lockridge/4b/a0a/786/).
-
-<p>(Testing Travis), take two</p>
