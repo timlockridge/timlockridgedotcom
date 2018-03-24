@@ -1,0 +1,35 @@
+language: ruby
+rvm:
+  - 2.3.3
+
+install:
+  - bundle install
+  - gem install jekyll
+  - gem install jekyll-paginate
+  - gem install redcarpet
+  - gem install pygments.rb
+
+branches:
+  only:
+    - master
+
+notifications:
+  email:
+    recipients:
+      - timlockridge@gmail.com
+    on_success: always
+    on_failure: always
+
+script:
+  - chmod +x _scripts/build.sh
+  - _scripts/build.sh
+
+after_success:
+  - chmod +x _scripts/deploy.sh
+  - _scripts/deploy.sh
+
+sudo: false
+addons:
+  apt:
+    packages:
+      - ncftp
