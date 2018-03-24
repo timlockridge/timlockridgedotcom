@@ -16,11 +16,14 @@ Assistant Professor of English / Miami University
 
 ## SCHOLARLY PUBLICATIONS & RESEARCH
 
-#### PEER-REVIEWED ARTICLES & REVIEWS (in press)
+#### BOOKS IN PROGRESS
 
-* "Transliguality, Transmodality, and Difference: Exploring Dispositions and Change in Language and Learning." Written with Bruce Horner and Cynthia Selfe. *Enculturation* Intermezzo Ebook Series. 2015.
+* *Writing Workflows: Beyond Word Processing* (digital monograph). With Derek Van Ittersum.
+* *Writing the Telephone, Writing the Cloud*.
 
-* “Review of Writing for the Web and Designing Web-Based Applications for the 21st Century Writing Classroom.” *Journal of Business and Technical Communication*. 2015.
+#### REFEREED DIGITAL MONOGRAPHS
+
+* *Transliguality, Transmodality, and Difference: Exploring Dispositions and Change in Language and Learning.* Written with Bruce Horner and Cynthia Selfe. Enculturation Intermezzo Digital Monograph Series (Jeff Rice, Series Editor). 2015. ISBN: 0986433314. [Link](http://intermezzo.enculturation.net/01/ttd-horner-selfe-lockridge/index.htm)
 
 #### CHAPTERS IN EDITED COLLECTIONS
 
@@ -30,23 +33,41 @@ Assistant Professor of English / Miami University
 
 * “Why Linearity is Not the Issue: Or, The New Work of Composing is Much Like the Old, Only Different.” Written with Diana George and Dan Lawson. In *The New Work of Composing.* Computers & Composition Digital Press/Utah State University Press. 2012.
 
-#### EDITORIAL CONTRIBUTIONS
+#### REFEREED JOURNAL ARTICLES
 
-* Associate Editor of *The Stories that Speak to Us: Exhibits from the Digital Archives of Literacy Narratives*. Eds. H. Lewis Ulman, Scott Lloyd DeWitt, and Cynthia L. Selfe. Computers and Composition Digital Press. 2013.
-
-#### DIGITAL CONTRIBUTIONS (invited)
-
-* "Thinking About Multi (or Trans-) Modality, and Trans (or Multi-) Linguality: Power, Ideology, and Emerging Questions.” With Bruce Horner and Cynthia L. Selfe. *Sweetland Digital Rhetoric Collaborative*. 2014.
-
-* “Collaboration and the Construction of Archives.” *MediaCommons: A Digital Scholarly Network*. 2013.
-
-#### PEER-REVIEWED JOURNAL ARTICLES
+*  "The _Kairos_ Preservation Project." *Computers and Composition* 46 (December 2017): 72-86
 
 * “Rhetorical Situations, Research Writing, and Genre: Cross-Institutional Collaboration on Curriculum Design.” Written with Diana George, John Trimbur, Anne C. Wheeler, Kat Gonso, Amy Patterson, and Dan Lawson. Journal of College Writing 10 (2010): 1–42. 2010.
 
 * “Icons and Genre: The Affordances of Livejournal.com.” Written with Jennifer Cover. Reconstruction: Studies in Contemporary Culture 9.3: 2009.
 
-#### PEER-REVIEWED CONFERENCE PROCEEDINGS
+#### REVIEWS
+
+* “Review of Writing for the Web and Designing Web-Based Applications for the 21st Century Writing Classroom.” *Journal of Business and Technical Communication*. 2015.
+
+#### EDITORIAL CONTRIBUTIONS
+
+I am a Senior Editor of Computers & Composition Digital Press, and I have contributed to the development, accessibility, and delivery of many born-digital scholarly books, including:
+
+* Hidalgo, *Camara Retorica* (2017)
+* Roozen & Erickson, *Expanding Literate Landscapes* (2017)
+* Shipka, Hidalgo, Anderson, & Campbell, *Reconstructing the Archive* (2016)
+* Carpenter, Apostel, Apostel, & R. Selfe, *Sustainable Learning Spaces* (2015)
+* Rhodes & Alexander, *Techne* (2015)
+* Lewis, *Strategic Discourse* (2015)
+* Fulwiler & Marlow, *Con Job* (2014)
+* McKee & DeVoss, *Digital Writing Assessment & Evaluation* (2013)
+* Ulman, DeWitt, & C. Selfe, *Stories that Speak to Us* (2013)
+
+#### DIGITAL CONTRIBUTIONS (invited)
+
+* “CCDP as a Case Study for Digital Publishing Efforts.” With Cynthia Selfe, Gail Hawisher, Patrick Berry, & Melanie Yergeau. *Sweetland Digital Rhetoric Collaborative*. (3,600 words). 2016.
+
+* "Thinking About Multi (or Trans-) Modality, and Trans (or Multi-) Linguality: Power, Ideology, and Emerging Questions.” With Bruce Horner and Cynthia L. Selfe. *Sweetland Digital Rhetoric Collaborative*. 2014.
+
+* “Collaboration and the Construction of Archives.” *MediaCommons: A Digital Scholarly Network*. 2013.
+
+#### REFEREED CONFERENCE PROCEEDINGS
 
 * “Evaluating a Workflow for Authoring Multimodal DITA.” Written with Carlos Evia and Sean Healy. In *Proceedings of the 31st ACM International Conference on Design of Communication* (pp. 185-186). 2013.
 
@@ -60,6 +81,8 @@ Assistant Professor of English / Miami University
 
 #### GRANTS & FUNDED RESEARCH
 
+* "Writing with Emergent Writing Technologies: Beyond Word Processing Research." Written with Derek Van Ittersum. Submitted to the CCCC Research Initiative for $10,000. September 2015. Not funded.
+
 * “Balancing Entertainment and Information Content in Technical Communication Comics.” PI: Carlos Evia. Co-PI: Manuel Perez Quinones. Grant Proposal submitted to Google Research Award Program for $92,518. August 2011. Not funded.
 
 * “Balancing Entertainment and Information Content in Technical Communication Comics.” PI: Carlos Evia. Virginia Tech Dept of English Seed Grant. Awarded $1306. May 2011. Funded.
@@ -70,9 +93,19 @@ Assistant Professor of English / Miami University
 
 #### CONFERENCE PRESENTATIONS
 
-* "Designing Writing Technologies." Computers & Writing. 2015. Under Review.
+* "DIY Locksmithing." Conference on Community Writing. Boulder, CO. 2017.
 
-* “Shifts in Markup: Early Hypertext Theory and Contemporary Writing Technologies.” Conference on College Composition and Communication. Tampa, FL. 2015. Accepted.
+* "Text Expansion and Wonder." Computers and Writing. Findlay, OH. 2017.
+
+* "Developing a Pedagogical Space through Web Scholarship Preservation." Computers and Writing. Findlay, OH. 2017. With Enrique Paz and Cynthia Johnson.
+
+* "Writing with Markdown." Computers and Writing. Rochester, NY. 2016.
+
+* "Workflow Friction: Designing writing processes around difficulty." Conference on College Composition and Communication. Houston, TX. 2016.
+
+* "Designing Writing Technologies." Computers & Writing. Menomonie, WI. 2015.
+
+* “Shifts in Markup: Early Hypertext Theory and Contemporary Writing Technologies.” Conference on College Composition and Communication. Tampa, FL. 2015.
 
 * “Collaborating on Convergences: Multi- (or trans-) Modality, and Trans- (or multi-) linguality.” Thomas R. Watson Conference. Louisville, KY. 2014.
 
@@ -104,6 +137,13 @@ Assistant Professor of English / Miami University
 
 #### INVITED PRESENTATIONS
 
+* "Digital publishing with Computers & Composition Digital Press." Presented (via Skype) to Stanford University publishing seminar, hosted by Adam Banks. August 3, 2017.
+* "Hypertext and Digital Rhetoric." Presented (via Skype) to Jennifer Grouling's Composition Pedagogy graduate seminar at Ball State University, April 19, 2017.
+* "An English Studies Approach to Digital Editing & Publishing Pedagogies." Presented to Virginia Tech Department of English, February 15, 2017.
+* "Digital Publishing: Processes and Practices." Digital Media and Composition (DMAC) Institute, Ohio State University. May 2016.
+* "Collaborative Writing: The Impact of Social Media." Oakland University Writing Center. November 2015.
+* "Hackers, Sci-Fi, and Self-Publication: The photocopied page and the future of digital writing." Oakland University. November 2015.
+* "Guest Lecture: Digital Publishing." Oakland University Honors College. November 2015.
 * “The Academic Job Search: Campus Visits.” Computers and Writing Graduate Research Network. May 2014.
 * “From Satellites to Snowden: Hacker Histories and the Growth of Surveillance Culture.” Susquehanna University “Technology in our Lives” Speaker Series. March 2014.
 * “Balancing Entertainment and Information Content in Technical Comics.” Virginia Tech Center for Human-Computer Interaction. April 2012.
@@ -124,15 +164,23 @@ Assistant Professor of English / Miami University
 * “Wait, This Isn’t the Future I Wanted.” *The Cimarron Review* 165 (Fall 2008): 8–9.
 * “Governing Bodies.” *Verse Daily*. 7 November 2008 http://www.versedaily.org/2008/governingbodies.shtml.
 * “What You Overheard.” *BBC World Service*, 16 April 2008.
-* “A Sky of Cinders.” *New River Journal of Digital Writing and Art*. (Fall 2007):  http://cddc.vt.edu/journals/newriver/07Fall/lockridge/index.html.
+* “A Sky of Cinders.” *New River Journal of Digital Writing and Art*. (Fall 2007):
+http://cddc.vt.edu/journals/newriver/07Fall/lockridge/index.html.
 * (full list of creative publications available upon request)
 
 ## ACADEMIC EMPLOYMENT
 
+## ACADEMIC EMPLOYMENT
+
 #### Assistant Professor, Miami University, 2014-Present
-* ENG720: Issues in Digital Composition, "Writing Technologies"
+* ENG 770: Professional Writing
+* ENG720: Issues in Digital Composition
+* ENG495: Capstone in Rhetoric & Writing
+* ENG/IMS 426/526: Digital Publishing
+* ENG 412/512: Print & Digital Editing
 * ENG/IMS 411/511: Visual Rhetoric
-* ENG412/512: Print & Digital Editing
+* ENG/IMS 224: Digital Writing and Rhetoric
+* Independent Study: Coding & Digital Composition
 
 #### Assistant Professor, Saint Joseph’s University, 2012-2014
 * COM 491: Communications Internship
@@ -149,23 +197,10 @@ Assistant Professor of English / Miami University
 * English 1105: First-Year Writing
 
 #### Academic Dean, Johns Hopkins Center for Talented Youth, 2008–2011, 2013
-* Directed a staff of 30 Instructors and 30 Teaching Assistants
-* Provided instructional feedback and mentoring
-* Conducted classroom observations and instructor evaluations
-* Addressed student performance issues, working with students and parents
-* Oversaw the writing and editing of narrative student evaluations
 
 #### Graduate Assistant to the Writing Center Director, Virginia Tech, 2010-2012
-* Assisted with the training of new writing center peer coaches
-* Helped to secure funding for the writing center
-* Managed multiple websites for the Composition program
-* Developed a teaching materials database
-* Consulted 4–6 hours per week at the Writing Center
 
 #### Fellow, Virginia Tech Graduate Education Development Institute, 2008-10
-* Developed and taught interdisciplinary workshops
-* Served as a peer mentor for graduate teaching assistants
-* Developed technology-enhanced curricular materials
 
 ## HONORS & AWARDS
 * Computers and Composition Hugh Burns Best Dissertation Award. 2013.
@@ -181,15 +216,23 @@ Assistant Professor of English / Miami University
 
 #### NATIONAL
 * Senior Editor. Computers & Composition Digital Press. 2013-.
-* Manuscript Reviewer. *Enculturation*. 2013.
-* Discussion Leader. Computers and Writing Graduate Research Network. 2012-2014.
+* Manuscript Reviewer. *Computers and Composition*. 2017.
+* Manuscript Reviewer. *Written Communication*. 2017.
+* Manuscript Reviewer. *Enculturation*. 2013, 2015.
+* Manuscript Reviewer. Routledge Press. 2015.
+* Awards Judge. *Computers & Composition*. 2015.
+* Discussion Leader. Computers and Writing Graduate Research Network. 2012-2017.
 * Assistant Editor. *Kairos*. 2010-2013.
 * Project Editor. Computers & Composition Digital Press. 2012-2013.
 * Blog Editor. Computers & Composition Digital Press. 2010-2012.
 
 #### MIAMI UNIVERSITY
-* Member, Graduate Committee. 8/14-Present.
-* Member, Graduate Admissions Subcommittee. 8/14-Present.
+* Member, English Department Steering Committee. 9/17-Present.
+* Member, Graduate Committee. 8/14-5/16; 2017.
+* Member, Graduate Student Placement Committee. 2017.
+* Chair, Computers, Research, & Pedagogy Committee. 2015.
+* Member, English Department Search Committee. 2015 & 2016.
+* Member, Graduate Admissions Subcommittee. 8/14-5/16.
 * Member, Rhetoric & Writing Committee. 8/14-Present.
 
 
@@ -204,7 +247,23 @@ Assistant Professor of English / Miami University
 ## GRADUATE ADVISING
 
 #### PhD Committee Member
-* Ryan Ireland (diss in progress).
+* Manea Alharbi (in progress)
+* Kathleen Coffey (in progress)
+* Bridget Gelms (in progress)
+* Enrique Paz (in progress)
+* Annika Vorhes (in progress)
+* Patrick Harris (defended 7/17)
+* John Silvestro (defended 6/17)
+* Ryan Ireland (defended 4/16)
+
+#### MA Thesis Director
+* Ryan Vingum (defended 6/16)
+
+#### MA Thesis Committee Member
+* Angela Glotfelter (defended 6/17)
+* Kyle Larson (defended 7/16)
+* Christopher Maggio (defended 6/16)
+
 
 ## PROFESSIONAL MEMBERSHIPS
 * Association of Teachers of Technical Writing
