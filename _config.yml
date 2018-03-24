@@ -20,7 +20,7 @@ author_image: "/assets/images/author.jpg"
 permalink: /blog/:categories/:year/:month/:day/:title.html
 paginate:	20
 paginate_path: "/blog/page:num/"
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 url: "http://www.timlockridge.com" # the base hostname & protocol for your site
 baseurl: ""

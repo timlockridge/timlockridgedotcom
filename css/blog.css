@@ -2,6 +2,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 .blog-mainpage {
   max-width: 700px;
   margin: 0 auto;

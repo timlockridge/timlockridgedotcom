@@ -14,20 +14,23 @@ layout: default
     {% endif %}
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
-    <div class="custom-links">
-      {% for social in site.social %}
-        {% if social.url %}
-            <a class="icon-{{ social.icon }}" href="{{ social.url }}">
-              <i class="fa fa-{{ social.icon }}"></i>
-            </a>
-            &nbsp;&nbsp;·&nbsp;&nbsp;
-        {% endif %}
-      {% endfor %}
+    <div class="custom-links tim-nav">
       <a href="/about/">About</a>
       &nbsp;&nbsp;·&nbsp;&nbsp;
       <a href="/cv/">CV</a>
       &nbsp;&nbsp;·&nbsp;&nbsp;
       <a href="/blog">Blog</a>
+      &nbsp;&nbsp;·&nbsp;&nbsp;
+      {% for social in site.social %}
+        {% if social.url %}
+            <a class="icon-{{ social.icon }}" href="{{ social.url }}">
+              <i class="fa fa-{{ social.icon }}"></i>
+            </a>
+        {% if forloop.last == false %}
+        &nbsp;&nbsp;·&nbsp;&nbsp;
+        {% endif %}
+        {% endif %}
+      {% endfor %}
     </div>
 </header>
 
