@@ -15,7 +15,7 @@ cover: "/assets/images/cover1.gif"
 
 name: 'Tim Lockridge'
 author: 'Tim Lockridge'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/tim.jpg"
 
 permalink: /blog/:categories/:year/:month/:day/:title.html
 paginate:	20
@@ -23,7 +23,7 @@ paginate_path: "/blog/page:num/"
 plugins: [jekyll-paginate]
 
 url: "http://www.timlockridge.com" # the base hostname & protocol for your site
-baseurl: ""
+# baseurl: ""
 
 # social icons and sharing options
 
