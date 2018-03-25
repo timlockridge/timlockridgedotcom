@@ -72,3 +72,20 @@ h2 {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
 }
+
+.blog-mainpage blockquote {
+  margin: 0 0 30px;
+  margin-left: 15px;
+  border-left: 3px solid #57ad68;
+  padding-left: 20px;
+}
+
+.blog-mainpage blockquote p {
+    letter-spacing: 0.01rem;
+    font-weight: 400;
+    font-style: italic;
+    mborder-left: 3px solid #57ad68;
+    mpadding-left: 20px;
+    mmargin-left: -26px;
+    padding-bottom: 3px;
+}
