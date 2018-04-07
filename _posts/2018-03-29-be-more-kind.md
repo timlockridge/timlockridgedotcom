@@ -2,6 +2,7 @@
 layout: post
 title: Be More Kind
 date: 2018-03-29 09:30:34
+categories: music
 comments: true
 ---
 I'm looking forward to Frank Turner's upcoming album, *Be More Kind*, and this song—the title track—has offered me a bit of solace in an otherwise difficult political and cultural moment.

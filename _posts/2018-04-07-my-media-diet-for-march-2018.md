@@ -2,6 +2,7 @@
 layout: post
 title: My media diet for March 2018
 date: 2018-04-07 09:59:09
+categories: media-diet
 comments: true
 ---
 [Counterpart](https://amzn.to/2GJuDE4). I found this show via a Todd Vanderwerff recommendation at Vox, and it was a complete surprise—smart, captivating, and well written. If it weren't on Starz, I think it would occupy more space in the pop culture conversation. Perhaps it will show up on Netflix & gain an audience. Thus far, my favorite show of 2018. (Grade: A)

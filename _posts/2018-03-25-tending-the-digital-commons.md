@@ -2,6 +2,7 @@
 layout: post
 title: Tending the digital commons
 date: 2018-03-25 10:26:56
+categories: tech
 comments: true
 ---
 This morning, two excerpts from Alan Jacobs' "[Tending the digital commons](http://www.iasc-culture.org/THR/THR_article_2018_Spring_Jacobs.php)" resonate with me. Jacobs writes:

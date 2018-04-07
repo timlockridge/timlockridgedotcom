@@ -2,6 +2,7 @@
 layout: post
 title: Manifold publishing
 date: 2018-03-30 12:33:47
+categories: tech
 comments: true
 ---
 Today, University of Minnesota Press launched [Manifold](https://manifoldapp.org):

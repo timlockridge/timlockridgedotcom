@@ -2,6 +2,7 @@
 layout: post
 title: Apple's Education Event
 date: 2018-03-28 09:05:19
+categories: tech
 comments: true
 ---
 [Michael Tsai](https://mjtsai.com/blog/2018/03/27/apples-lane-tech-education-event/) has a nice roundup of responses to yesterday's Apple Education Event. Google is currently dominating the education sector, and I hoped that an Apple education event would signal a greater shift in strategy from Apple. It didn't.

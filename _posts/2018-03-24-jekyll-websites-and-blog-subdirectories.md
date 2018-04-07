@@ -2,6 +2,7 @@
 layout: post
 title: Jekyll websites and blog subdirectories
 date: 2018-03-24 13:00:09
+categories: tech
 comments: true
 ---
 This site is using a single Jekyll installation for a static portfolio website and a blog. I wanted the blog in a /blog subdirectory with its own HTML layout & stylesheet, so I added the following files to my Jekyll installation:
