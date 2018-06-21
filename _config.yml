@@ -11,7 +11,7 @@ email: timlockridge@gmail.com
 #blog logo
 logo: "/assets/images/tim.jpg"
 # blog cover
-cover: "/assets/images/cover1.gif"
+cover: "/assets/images/watching.gif"
 
 name: 'Tim Lockridge'
 author: 'Tim Lockridge'
@@ -37,6 +37,13 @@ social:
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
+
+  - icon: lastfm
+    url: https://last.fm/user/timlockridge
+    desc: Follow me on last.fm
+    share_url:
+    share_title:
+    share_link:
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
