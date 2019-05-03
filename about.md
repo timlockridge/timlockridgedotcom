@@ -7,7 +7,14 @@ permalink: /about/
 
 <h2 id="research">Research</h2>
 
-I am currently working on three major research projects: an archival study of *2600: The Hacker Quarterly*, a series of case studies about writers & writing technologies, and the development of an electronic publishing lab at Miami University. For a list of recent publications, please refer to my [CV](/../cv).
+My long-form publications include [*Translinguality, Transmodality, and Difference: Exploring Dispositions and Change in Language and Learning*](http://intermezzo.enculturation.net/01/ttd-horner-selfe-lockridge/index.htm), written with Bruce Horner & Cynthia Selfe, and *Writing Workflows: Beyond Word Processing*, written with Derek Van Ittersum and forthcoming from University of Michigan Press.
+
+
+I am currently working on three major research projects: an archival study of the telephone, a series of case studies about writers & writing technologies, and the development of an electronic publishing collective at Miami University. For a list of recent publications, please refer to my [CV](/../cv).
+
+I am also a senior editor of [Computers & Composition Digital Press](http://ccdigitalpress.org), and I built & maintain [Rhetorlist](https://www.rhetorlist.net).
+
+I have received the [Hugh Burns Best Dissertation Award](http://candcblog.org/computersandcomposition/awards/hughburns.htm), the [Michelle Kendrick Outstanding Digital Production/Scholarship Award](http://candcblog.org/computersandcomposition/awards/digital.htm), and the [Sweetland/University of Michigan Press Publication Prize](https://www.digitalrhetoriccollaborative.org/2018/07/26/sweetland-um-press-book-prize-awarded-to-tim-lockridge-and-derek-van-ittersum/).
 
 <h2 id="poetry">Poetry</h2>
 
