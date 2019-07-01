@@ -25,7 +25,6 @@ script:
   - _scripts/build.sh
 
 after_success:
-  - export SSHPASS=$PASSWORD
   - chmod +x _scripts/deploy.sh
   - _scripts/deploy.sh
 
