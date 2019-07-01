@@ -26,8 +26,12 @@ script:
 
 after_success:
   - export SSHPASS=$PASSWORD
-  - chmod +x _scripts/deploy.sh
-  - _scripts/deploy.sh
+
+deploy:
+  - provider: script
+    script: cd _site
+  - provider: script
+    script: sshpass -e scp -r . $USERNAME@$HOST:/home/timlockridge/mainwebsite_html
 
 sudo: false
 addons:
