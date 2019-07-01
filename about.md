@@ -27,6 +27,7 @@ My poetry has appeared in a number of literary magazines and websites. A few are
 * “[Real Buck Attacks Ceramic Deer](http://archive.thepedestalmagazine.com/gallery.php?item=2319)” at The Pedestal Magazine
 * “[A Brief Meditation on Movement](http://qarrtsiluni.com/2008/06/22/a-brief-meditation-on-movement)” at qarrtsiluni
 * “[A Sky of Cinders](http://www.cddc.vt.edu/journals/newriver/07Fall/lockridge/index.html)” at The New River Journal of Hypertext and Digital Art
+* Test entry
 
 <h2 id="contact">Contact</h2>
 The best way to get in touch with me is via email <br />(timlockridge@miamioh.edu) or Twitter [(@timlockridge)](http://www.twitter.com/timlockridge). You can also find me on [Github](http://www.github.com/timlockridge) and [LinkedIn](http://www.linkedin.com/pub/tim-lockridge/4b/a0a/786/).
