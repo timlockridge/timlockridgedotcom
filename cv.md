@@ -16,7 +16,7 @@ permalink: /cv/
 
 ## SCHOLARLY ACTIVITY
 
-#### BOOK IN PRESS.
+#### BOOK IN PRESS
 
 - *Writing Workflows: Beyond Word Processing*. With Derek Van Ittersum. University of Michigan Press/Sweetland DRC. 2020.
 
@@ -45,7 +45,7 @@ permalink: /cv/
 
 #### EDITORIAL POSITIONS
 
-**Senior Editor (with Patrick W. Berry & Melanie Yergeau), Computers & Composition Digital Press, an imprint of Utah State University Press.**
+**Senior Editor (with Patrick W. Berry & Amber Buck), Computers & Composition Digital Press, an imprint of Utah State University Press.**
 
 As senior editor I have developed a new public-facing website for CCDP, configured & maintained a new Ubuntu server for the press, introduced version control procedures into our publication process, helped authors through the digital production process, built back-end tools for new projects, mentored authors in preservation and accesibility standards, worked to improve the preservability of new projects, and collaborated with IT and Press staff at Utah State University. I have also worked in a more traditional editorial capacity: soliciting proposals, approving or declining proposals, facilitating peer review, helping with marketing our books, and so on.
 
