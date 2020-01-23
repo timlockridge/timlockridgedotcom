@@ -38,12 +38,12 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-  - icon: lastfm
-    url: https://last.fm/user/timlockridge
-    desc: Follow me on last.fm
-    share_url:
-    share_title:
-    share_link:
+#  - icon: lastfm
+#    url: https://last.fm/user/timlockridge
+#    desc: Follow me on last.fm
+#    share_url:
+#    share_title:
+#    share_link:
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
