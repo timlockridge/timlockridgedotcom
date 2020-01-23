@@ -7,10 +7,7 @@ permalink: /about/
 
 <h2 id="research">Research</h2>
 
-My long-form publications include [*Translinguality, Transmodality, and Difference: Exploring Dispositions and Change in Language and Learning*](http://intermezzo.enculturation.net/01/ttd-horner-selfe-lockridge/index.htm), written with Bruce Horner & Cynthia Selfe, and *Writing Workflows: Beyond Word Processing*, written with Derek Van Ittersum and forthcoming from University of Michigan Press.
-
-
-I am currently working on three major research projects: an archival study of the telephone, a series of case studies about writers & writing technologies, and the development of an electronic publishing collective at Miami University. For a list of recent publications, please refer to my [CV](/../cv).
+My long-form publications include [*Translinguality, Transmodality, and Difference: Exploring Dispositions and Change in Language and Learning*](http://intermezzo.enculturation.net/01/ttd-horner-selfe-lockridge/index.htm), written with Bruce Horner & Cynthia Selfe, and *Writing Workflows: Beyond Word Processing*, written with Derek Van Ittersum and forthcoming from University of Michigan Press (later in 2020).
 
 I am also a senior editor of [Computers & Composition Digital Press](http://ccdigitalpress.org), and I built & maintain [Rhetorlist](https://www.rhetorlist.net).
 
