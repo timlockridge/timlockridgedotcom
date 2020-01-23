@@ -16,13 +16,9 @@ permalink: /cv/
 
 ## SCHOLARLY ACTIVITY
 
-#### BOOK UNDER ADVANCE CONTRACT
+#### BOOK IN PRESS.
 
-- *Writing Workflows: Beyond Word Processing*. With Derek Van Ittersum. Winner of the 2018 University of Michigan Press/Sweetland Book Prize.
-
-#### BOOK IN PROGRESS
-
-* *Writing the Telephone, Writing the Cloud*. 
+- *Writing Workflows: Beyond Word Processing*. With Derek Van Ittersum. University of Michigan Press/Sweetland DRC. 2020.
 
 #### REFEREED DIGITAL MONOGRAPHS
 
@@ -30,7 +26,7 @@ permalink: /cv/
 
 #### REFEREED JOURNAL ARTICLES
 
-- "Introduction to Alex Borowitz's 'Le Processus D'ecriture'" *The Journal of Undergraduate Multimedia Projects* 8.2 (March 2019).
+- "Instructor's Reflection for Alex Borowitz's 'Le Processus D'ecriture'" *The Journal of Undergraduate Multimedia Projects* 8.2 (March 2019).
 - "The _Kairos_ Preservation Project." With Enrique Paz & Cynthia Johnson. *Computers and Composition* 46 (December 2017): 72-86
 - “Rhetorical Situations, Research Writing, and Genre: Cross-Institutional Collaboration on Curriculum Design.” Written with Diana George, John Trimbur, Anne C. Wheeler, Kat Gonso, Amy Patterson, and Dan Lawson. Journal of College Writing 10 (2010): 1–42.
 - “Icons and Genre: The Affordances of Livejournal.com.” Written with Jennifer Cover. Reconstruction: Studies in Contemporary Culture 9.3 (2009).
@@ -67,6 +63,10 @@ As senior editor I have developed a new public-facing website for CCDP, configur
 * “Evaluating a Workflow for Authoring Multimodal DITA.” Written with Carlos Evia and Sean Healy. In *Proceedings of the 31st ACM International Conference on Design of Communication* (pp. 185-186). 2013.
 
 * “Structured Authoring meets Technical Comics in Techcommix.” Written with Carlos Evia, Michael Stewart, Siroberto Scerbo, and Manuel Perez-Quiñones. In *Proceedings of the 30th ACM International Conference on Design of Communication* (pp. 353-354). 2012.
+
+#### BOOK IN PROGRESS
+
+* *Writing the Telephone, Writing the Cloud*. 
 
 #### TEXTBOOKS & TEXTBOOK CHAPTERS
 
@@ -201,16 +201,15 @@ As senior editor I have developed a new public-facing website for CCDP, configur
 * Blog Editor. Computers & Composition Digital Press. 2010-2012.
 
 #### MIAMI UNIVERSITY
-* Member, English Department Steering Committee. 9/17-Present.
+* Member, English Department Steering Committee. 9/17-9/19.
 * Member, Digital Media Big Ideas Committee. 2018.
-* Member, Graduate Committee. 8/14-5/16; 2017-18.
+* Member, Graduate Committee. 8/14-5/16; 2017-18; 2019-.
 * Member, English Department Chair Search Committee. Spring 2018.
 * Member, Graduate Awards Committee. 2017-18.
 * Member, Graduate Fellowship Committee. 2018.
 * Member, Graduate Student Placement Committee. 2017-18.
 * Chair, Computers, Research, & Pedagogy Committee. 2015.
 * Member, English Department Search Committee. 2015 & 2016.
-* Member, Graduate Admissions Subcommittee. 8/14-5/16.
 * Member, Rhetoric & Writing Committee. 8/14-Present.
 
 
@@ -227,6 +226,7 @@ As senior editor I have developed a new public-facing website for CCDP, configur
 #### PhD Dissertation Director
 
 * Angela Glotfelter (in progress)
+* Christopher Maggio (in progress)
 * Laura Edwards (co-directing w/Jason Palmeri; in progress)
 
 #### PhD Committee Member
@@ -234,10 +234,10 @@ As senior editor I have developed a new public-facing website for CCDP, configur
 * Manea Alharbi (in progress)
 * Danielle Hart (in progress)
 * Alan Knowles (in progress)
-* Enrique Paz (in progress)
 * Megan Schoettler (in progress)
 * Ryan Vingum (in progress)
 * Annika Vorhes (in progress)
+* Enrique Paz (defended 7/19)
 * Kathleen Coffey (defended 4/19)
 * Bridget Gelms (defended 4/18)
 * Patrick Harris (defended 7/17)
