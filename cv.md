@@ -18,11 +18,11 @@ permalink: /cv/
 
 #### BOOK IN PRESS
 
-- *Writing Workflows: Beyond Word Processing*. With Derek Van Ittersum. University of Michigan Press/Sweetland DRC. 2020.
+- [*Writing Workflows: Beyond Word Processing*.](https://www.press.umich.edu/11657120/writing_workflows) With Derek Van Ittersum. University of Michigan Press/Sweetland DRC. 2020.
 
 #### REFEREED DIGITAL MONOGRAPHS
 
-* *Transliguality, Transmodality, and Difference: Exploring Dispositions and Change in Language and Learning.* With Bruce Horner and Cynthia Selfe. Enculturation Intermezzo Digital Monograph Series (Jeff Rice, Series Editor). 2015. ISBN: 0986433314.
+* [*Transliguality, Transmodality, and Difference: Exploring Dispositions and Change in Language and Learning.*](http://intermezzo.enculturation.net/01/ttd-horner-selfe-lockridge/index.htm) With Bruce Horner and Cynthia Selfe. Enculturation Intermezzo Digital Monograph Series (Jeff Rice, Series Editor). 2015. ISBN: 0986433314.
 
 #### REFEREED JOURNAL ARTICLES
 
