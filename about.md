@@ -3,14 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
- [Contact](#contact) | [Research](#research) | [Poetry](#poetry)
 
 <h2 id="contact">Contact</h2>
 The best way to get in touch with me is via email <br />(timlockridge@miamioh.edu) or Twitter [(@timlockridge)](http://www.twitter.com/timlockridge). You can also find me on [Github](http://www.github.com/timlockridge) and [LinkedIn](http://www.linkedin.com/pub/tim-lockridge/4b/a0a/786/).
 
 <h2 id="research">Research</h2>
 
-My long-form publications include [*Translinguality, Transmodality, and Difference: Exploring Dispositions and Change in Language and Learning*](http://intermezzo.enculturation.net/01/ttd-horner-selfe-lockridge/index.htm), written with Bruce Horner & Cynthia Selfe, and [*Writing Workflows: Beyond Word Processing*](https://www.press.umich.edu/11657120/writing_workflows), written with Derek Van Ittersum and forthcoming from University of Michigan Press (later in 2020).
+For links to a few recent publications, see my [Research](/research) page. For a longer list, view my [CV](/cv).
 
 I am also a senior editor of [Computers & Composition Digital Press](http://ccdigitalpress.org), and I built & maintain [Rhetorlist](https://www.rhetorlist.net).
 

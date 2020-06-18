@@ -26,10 +26,14 @@ permalink: /cv/
 
 #### REFEREED JOURNAL ARTICLES
 
-- "Instructor's Reflection for Alex Borowitz's 'Le Processus D'ecriture'" *The Journal of Undergraduate Multimedia Projects* 8.2 (March 2019).
-- "The _Kairos_ Preservation Project." With Enrique Paz & Cynthia Johnson. *Computers and Composition* 46 (December 2017): 72-86
+- "Instructor's Reflection for Alex Borowitz's 'Le Processus D'ecriture'" *The Journal of Undergraduate Multimedia Projects* 8.2. 2019.
+- "The _Kairos_ Preservation Project." With Enrique Paz & Cynthia Johnson. *Computers and Composition* 46 (2017): 72-86
 - “Rhetorical Situations, Research Writing, and Genre: Cross-Institutional Collaboration on Curriculum Design.” Written with Diana George, John Trimbur, Anne C. Wheeler, Kat Gonso, Amy Patterson, and Dan Lawson. Journal of College Writing 10 (2010): 1–42.
 - “Icons and Genre: The Affordances of Livejournal.com.” Written with Jennifer Cover. Reconstruction: Studies in Contemporary Culture 9.3 (2009).
+
+#### EDITORIALLY-REVIEWED JOURNAL ARTICLES
+
+* “Building Rhetorlist: A call for small, meaningful projects in Rhetoric & Composition.” *Kairos: A Journal of Rhetoric, Technology, & Pedagogy* 24.2. 2020.  
 
 #### CHAPTERS IN EDITED COLLECTIONS
 
@@ -137,7 +141,8 @@ As senior editor I have developed a new public-facing website for CCDP, configur
 
 ## ACADEMIC EMPLOYMENT
 
-#### Assistant Professor, Miami University, 2014-Present
+#### Associate Professor, Miami University, 2020-present
+#### Assistant Professor, Miami University, 2014-2020
 
 * ENG 770: Professional Writing
 * ENG720: Issues in Digital Composition
@@ -188,13 +193,13 @@ As senior editor I have developed a new public-facing website for CCDP, configur
 
 #### NATIONAL
 * Editorial Board Member. Communication Design Quarterly. 2018-.
-* Manuscript Reviewer. *connexions in international professional communication and design ebook series*. 2018-.
-* Manuscript Reviewer. Macmillan Press. 2018.
-* Manuscript Reviewer. *Computers and Composition*. 2017, 2018.
-* Manuscript Reviewer. *Written Communication*. 2017, 2018.
-* Manuscript Reviewer. *Enculturation*. 2013, 2015.
-* Manuscript Reviewer. Routledge Press. 2015.
-* Awards Judge. *Computers & Composition*. 2015.
+* Manuscript Reviewer. *connexions in international professional communication and design ebook series*.
+* Manuscript Reviewer. Macmillan Press.
+* Manuscript Reviewer. *Computers and Composition*.
+* Manuscript Reviewer. *Written Communication*.
+* Manuscript Reviewer. *Enculturation*.
+* Manuscript Reviewer. Routledge Press.
+* Awards Judge. *Computers & Composition*.
 * Discussion Leader. Computers and Writing Graduate Research Network. 2012-2018.
 * Assistant Editor. *Kairos*. 2010-2013.
 * Project Editor. Computers & Composition Digital Press. 2012-2013.
