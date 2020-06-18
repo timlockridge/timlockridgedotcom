@@ -24,9 +24,12 @@ permalink: /cv/
 
 * [*Transliguality, Transmodality, and Difference: Exploring Dispositions and Change in Language and Learning.*](http://intermezzo.enculturation.net/01/ttd-horner-selfe-lockridge/index.htm) With Bruce Horner and Cynthia Selfe. Enculturation Intermezzo Digital Monograph Series (Jeff Rice, Series Editor). 2015. ISBN: 0986433314.
 
+#### INSTRUCTOR REFLECTION FOR PEER-REVIEWED UNDERGRADUATE RESEARCH PUBLICATION
+
+* "Instructor's Reflection for Alex Borowitz's 'Le Processus D'ecriture'" *The Journal of Undergraduate Multimedia Projects* 8.2. 2019.
+
 #### REFEREED JOURNAL ARTICLES
 
-- "Instructor's Reflection for Alex Borowitz's 'Le Processus D'ecriture'" *The Journal of Undergraduate Multimedia Projects* 8.2. 2019.
 - "The _Kairos_ Preservation Project." With Enrique Paz & Cynthia Johnson. *Computers and Composition* 46 (2017): 72-86
 - “Rhetorical Situations, Research Writing, and Genre: Cross-Institutional Collaboration on Curriculum Design.” Written with Diana George, John Trimbur, Anne C. Wheeler, Kat Gonso, Amy Patterson, and Dan Lawson. Journal of College Writing 10 (2010): 1–42.
 - “Icons and Genre: The Affordances of Livejournal.com.” Written with Jennifer Cover. Reconstruction: Studies in Contemporary Culture 9.3 (2009).
