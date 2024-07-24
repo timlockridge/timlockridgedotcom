@@ -18,6 +18,7 @@ body {
     min-height: 100vh;
     max-width: 760px;
     margin: 0 auto;
+    padding: 0 2%;
     font-size: 18px;
     line-height: 1.4;
 }
