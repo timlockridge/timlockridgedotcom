@@ -37,4 +37,5 @@ jobs:
       run: scp -r ./* deploy:/var/www/timlockridge.com/tmp
 
     - name: Move files and clean up
-      run: ssh deploy 'mv /var/www/timlockridge.com/tmp/* /var/www/timlockridge.com/ && rm -rf /var/www/timlockridge.com/tmp/'
+      run: |
+        ssh deploy 'rm -rf /var/www/timlockridge.com/assets && mv /var/www/timlockridge.com/tmp/* /var/www/timlockridge.com/ && rm -rf /var/www/timlockridge.com/tmp/'
