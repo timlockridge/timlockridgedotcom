@@ -1,44 +1,63 @@
----
-layout: default
----
-<div class="teaserimage">
-   <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
-        Teaser Image
-    </div>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <!-- out, damned bot! out, I say! -->
+    <meta name="robots" content="noai">
+    
+    <!-- open graph reference: https://ogp.me -->
+    <meta property="og:title" content="Tim Lockridge">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://timlockridge.com/">
+    <meta property="og:image" content="https://timlockridge.com/tim.jpg">
 
-<header class="blog-header">
-    {% if site.logo %}
-      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
-    {% endif %}
-    <h1 class="blog-title">{{ site.title }}</h1>
-    <h2 class="blog-description">{{ site.description }}</h2>
-    <div class="custom-links tim-nav">
-      <a href="/about/">About</a>
-      &nbsp;&nbsp;·&nbsp;&nbsp;
-      <a href="/research/">Research</a>
-      &nbsp;&nbsp;·&nbsp;&nbsp;
-      <a href="/cv/">CV</a>
-      &nbsp;&nbsp;·&nbsp;&nbsp;
-      {% for social in site.social %}
-        {% if social.url %}
-            <a class="icon-{{ social.icon }}" href="{{ social.url }}">
-              <i class="fa fa-{{ social.icon }}"></i>
-            </a>
-        {% if forloop.last == false %}
-        &nbsp;&nbsp;·&nbsp;&nbsp;
-        {% endif %}
-        {% endif %}
-      {% endfor %}
-    </div>
-</header>
+    <title>Tim Lockridge</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
 
+<body>
+    <header>
+        <img class="header-photo" src="tim.jpg" alt="A photo of Tim"/>
+        <h1>Hi, I&rsquo;m Tim Lockridge</h1>
+    </header>
 
-<main class="content" role="main">
+    <main>
+        <p>I am Associate Professor and Director of Graduate Studies in the <a href="https://miamioh.edu/cas/departments/english/index.html">Department of English</a> at <a href="https://miamioh.edu">Miami University</a>. I am also an affiliate faculty member in the <a href="https://miamioh.edu/cca/departments/emerging-technology-in-business-and-design/index.html">Department of Emerging Technology in Business and Design</a>.</p>
 
-<div class="biography">
-<p>I am an Associate Professor in the Department of English at Miami University (in Oxford, Ohio). I teach, research, and write about digital publics, digital writing practices, and born-digital scholarship. I'm a senior editor of <a href="https://www.ccdigitalpress.org">Computers & Composition Digital Press</a>, and I built and maintain <a href="https://www.rhetorlist.net">Rhetorlist</a>.</p>
-</div>
+        <div class="book-section">
+            <img src="assets/workflows-cover.jpg" alt="Writing Workflows: Beyond Word Processing">
+            <p>My book, <em>Writing Workflows: Beyond Word Processing</em> (written with Derek Van Ittersum), was published by the University of Michigan Press in 2020 and is available in two open access formats: <a href="https://press.umich.edu/Books/W/Writing-Workflows">epub</a> and <a href="https://digitalrhetoriccollaborative.org/writing-workflows/index.html">web-based</a>. Derek and I also published a textbook chapter based on our research, which is available in the <cite><a href="https://writingspaces.org/past-volumes/find-the-best-tools-for-the-job-experimenting-with-writing-workflows/">Writing Spaces: Volume 4</a></cite> open access textbook.</p>
+        </div>
+            
+        <p>I am also</p>
 
-</main>
+        <ul>
+            <li>Senior Editor of <a href="https://ccdigitalpress.org">Computers and Composition Digital Press</a>;</li>
+            <li>developer of <a href="https://rhetorlist.net">Rhetorlist</a>;</li>
+            <li>building a digital archive of Computers and Writing conference programs; and</li>
+            <li>working on a new book project.</li>
+        </ul>
+
+        <p>I also write fiction and poetry. A few of my published poems include:</p>
+        <ul>
+            <li><em><a href="http://timlockridge.com/lockridge-survival-tips.pdf">Survival Tips for a Parallel Universe</a></em> — a featured author chapbook published by the <em>Mid-American Review</em>.</li>
+            <li>“<a href="http://thediagram.com/9_5/lockridge.html">New Ruin, Old World</a>” at DIAGRAM</li>
+            <li>“<a href="http://www.versedaily.org/2008/governingbodies.shtml">Governing Bodies</a>” at Verse Daily</li>
+            <li>“<a href="http://www.versedaily.org/2007/natureimagery.shtml">On Realizing I Tend To End With Nature Imagery</a>” at Verse Daily</li>
+            <li>“<a href="http://qarrtsiluni.com/2008/06/22/a-brief-meditation-on-movement">A Brief Meditation on Movement</a>” at qarrtsiluni</li>
+        </ul>
+
+        <p>I occasionally write on <a href="https://blog.timlockridge.com">my personal micro.blog</a>—mostly about music and running.</p>
+
+        <p>I don't post much on social media, but I do periodically update <a href="https://blog.timlockridge.com/now/">my now page</a>.</p>
+
+        <p>Want to talk? Send me an email: timlockridge@miamioh.edu</p>
+    </main>
+    <script src="assets/smartquotes.js"></script>
+    <script>
+        smartquotes();
+    </script>
+</body>
+</html>
