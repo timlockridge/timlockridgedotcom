@@ -1,1 +1,1 @@
-Source files for my personal website and blog.
+Source files for my personal website
