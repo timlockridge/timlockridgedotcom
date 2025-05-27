@@ -78,3 +78,18 @@ a:hover {
             margin: 0; /* Remove default margin */
             vertical-align: middle; /* Ensure vertical alignment */
         }
+
+
+/* Poem Styling */
+.byline {
+    margin-bottom: 0;
+    
+}
+
+.byline + h1 {
+    margin-top: 0;
+}
+
+.copyright {
+    margin-top: 10%;;
+}
