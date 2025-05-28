@@ -7,6 +7,16 @@
     font-stretch: 75% 125%;
   }
   
+@font-face {
+  font-family: 'Mona Sans';
+  font-style: italic;
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+  src:
+   url('MonaSans-Italic.woff2') format('woff2 supports variations'),
+   url('MonaSans-Italic.woff2') format('woff2-variations');
+}
+
   html {
     font-family: 'Mona Sans';
   }
@@ -78,6 +88,10 @@ a:hover {
             margin: 0; /* Remove default margin */
             vertical-align: middle; /* Ensure vertical alignment */
         }
+
+.poems-intro {
+    margin-top: 50px;
+}
 
 
 /* Poem Styling */
