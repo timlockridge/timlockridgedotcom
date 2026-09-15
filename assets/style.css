@@ -63,15 +63,86 @@ a:hover {
 .book-section {
     display: grid;
     grid-template-columns: auto 1fr;
-    grid-gap: 1em;
+    grid-gap: 1.25em;
     align-items: center;
     margin: 25px;
-    background-color: rgb(223, 227, 246);
+    padding: 1.25em;
+    border: 1px solid rgb(190, 196, 225);
+    border-radius: 16px;
+    background-color: rgb(238, 240, 250);
 }
 
 .book-section img {
-    max-width: 150px;
+    max-width: 120px;
     height: auto;
+    border-radius: 4px;
+}
+
+.book-section p {
+    margin: 0;
+}
+
+.app-card {
+    margin: 25px;
+    border: 1px solid rgb(210, 205, 190);
+    border-radius: 16px;
+    background-color: rgb(250, 247, 240);
+    overflow: hidden;
+}
+
+.app-card-body {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 1.25em;
+    align-items: center;
+    padding: 1.25em;
+}
+
+.app-card-body img {
+    width: 120px;
+    height: 120px;
+    border-radius: 27px;
+}
+
+.app-card-body p {
+    margin: 0;
+}
+
+.app-card-footer {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    padding: 0.9em 1.25em;
+    border-top: 1px solid rgb(210, 205, 190);
+    background-color: rgb(244, 240, 230);
+    font-size: 0.85em;
+    color: #555;
+}
+
+.app-store-badge img {
+    width: 120px;
+    height: 40px;
+    display: block;
+}
+
+@media (max-width: 600px) {
+    .book-section,
+    .app-card {
+        margin: 25px 0;
+    }
+
+    .book-section,
+    .app-card-body {
+        grid-template-columns: 1fr;
+        justify-items: center;
+        text-align: left;
+    }
+
+    .app-card-footer {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.6em;
+    }
 }
 
     header {
